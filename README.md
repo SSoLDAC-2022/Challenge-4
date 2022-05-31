@@ -1,4 +1,4 @@
-# Challenge-4:  Semantic Enrichment
+# Challenge 4:  Semantic Enrichment
 **Champions**: Tanya Bloch, Rafael Sacks, Pieter Pauwels
 
 **Number of people per team**: 3-4

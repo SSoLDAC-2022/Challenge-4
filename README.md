@@ -12,6 +12,7 @@ Within the coding challenge you will work on the following **tasks**:
 * **Identify the types of relationships** (‘supports/supported_by’) between each pair of structural elements. Begin with a rule-based approach to identify the relationship type between every pair of elements (an analysis of geometry and functionality of the objects). Use the results and the attached set of models to generate a labelled data set that can be used to classify the relationships with supervised ML. Alternatively, generate a graph based labelled data set and use a Graph Neural Network (GNN) to infer the relationships.
 * Supplement a structural model with **‘supports/supported_by’ relationships between each pair of structural elements**. Consider supplementing the information directly to the IFC, or following the CBIM ontology (Ouyang et al., 2022). 
 
+![Sample IFC model](snapshot.png "Sample IFC model")
 
 ## Challenger Research Questions:
 * What are the key challenges in each of the inference approaches (rule based, ML based, GNN)?

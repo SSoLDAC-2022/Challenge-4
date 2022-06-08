@@ -21,7 +21,7 @@ Within the coding challenge you will work on the following **tasks**:
 
 ## Data Sets available: 
 * Set of 50 structural models in an IFC format is available in the [resources folder](/resources/)
-* CBIM ontology [[resources folder](https://raw.githubusercontent.com/terry-oy/CBIM-Ontology/main/CBIM-Ontology.owl)](https://raw.githubusercontent.com/terry-oy/CBIM-Ontology/main/CBIM-Ontology.owl)
+* CBIM ontology: [https://raw.githubusercontent.com/terry-oy/CBIM-Ontology/main/CBIM-Ontology.owl](https://raw.githubusercontent.com/terry-oy/CBIM-Ontology/main/CBIM-Ontology.owl)
 
 ## Challenge Instructions
 Bring your laptop.
